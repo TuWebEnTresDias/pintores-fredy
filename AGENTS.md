@@ -3,7 +3,7 @@
 ## Sitio
 - Sitio estático para GitHub Pages, sin servidor, base de datos ni formularios.
 - El contacto se abre directamente en WhatsApp o teléfono.
-- Las fotografías se cargan desde el bucket público de Supabase compartido en el chat.
+- Las fotografías seleccionadas están versionadas como archivos JPEG en `assets/`; no depender del bucket para cargarlas.
 - El sitio está marcado `noindex,follow` hasta que se apruebe la versión.
 
 ## Contenido
@@ -15,3 +15,6 @@
 ## Analítica
 - PostHog registra pageviews en el proyecto compartido, segmentados con `site_slug=pintores-fredy`.
 - Autocapture y grabación de sesiones están desactivados. No enviar el teléfono del lead como propiedad de eventos.
+
+## Identidad visual
+- Paleta propia: azul petróleo, blanco frío, gris verdoso y terracota. No volver a la combinación de la demo.
