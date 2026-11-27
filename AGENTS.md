@@ -4,7 +4,7 @@
 - Sitio estático para GitHub Pages, sin servidor, base de datos ni formularios.
 - El contacto se abre directamente en WhatsApp o teléfono.
 - Las fotografías seleccionadas están versionadas como archivos JPEG en `assets/`; no depender del bucket para cargarlas.
-- El sitio está marcado `noindex,follow` hasta que se apruebe la versión.
+- La web está habilitada para indexación; mantener la canónica, `robots.txt` y `sitemap.xml` alineados con https://pintoresfredy.com/.
 
 ## Contenido
 - El alcance visualizado en imágenes respalda pintura interior, exterior y de fachadas, preparación de paredes y trabajos en altura.
